@@ -77,7 +77,6 @@ set clipboard=unnamedplus
 " set colorcolumn=80
 
 " <leader> key
-" double \\ used because single \ synthax is used for someting else in vimscript
 let mapleader=","
 
 " display buffer list and prepare :b to jump to buffer
