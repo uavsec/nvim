@@ -110,8 +110,6 @@ call plug#end()
 "###### LSP
 let g:lsp_diagnostics_enabled = 0
 
-"###### Asyncomplete.vim
-
 "tab complete
 inoremap <expr> <Tab>   pumvisible() ? "\<C-n>" : "\<Tab>"
 inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
